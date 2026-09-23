@@ -40,7 +40,7 @@ Designed and shipped new business features across web and mobile, set up CI/CD, 
 Built an intelligent microservices-based recruitment platform; containerized services, orchestrated with K8s, and automated delivery with GitHub Actions.
 
 **Medical Management Web App (NOMAC)**  
-*Django · Azure · Terraform · GitLab CI/CD · MySQL*  
+*Spring Boot · Azure · Terraform · GitLab CI/CD · MySQL*  
 Developed a clinic management app and automated the delivery pipeline and infra provisioning on Azure.
 
 **Academic — Employee & Department Management**  
